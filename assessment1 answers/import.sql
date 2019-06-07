@@ -1,0 +1,1 @@
+insert into Account values (1, "Hugo"), (2, "Danny"), (3, "Adrian"), (4, "Rob");
